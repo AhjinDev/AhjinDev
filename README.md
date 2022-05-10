@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AhjinDev
-- 👀 I’m interested in Game Development and Korean culture
-- 🌱 I’m currently learning Korean and C++ (for Unreal Engine 5)
-- 💞️ I’m looking to collaborate on ReactJS/NextJS or Unreal Engine 5
+- 👀 I’m interested in Frontend Development and Korean culture
+- 🌱 I’m currently learning Korean
+- 💞️ I’m looking to collaborate on ReactJS/NextJS or Flutter
 - 📫 How to reach me :
     - https://www.linkedin.com/in/jsonbrd/
     - https://twitter.com/ahjindev
